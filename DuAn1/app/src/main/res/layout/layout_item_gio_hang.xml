@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    >
+    
+    <ImageView
+        android:id="@+id/imgGioHang"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_margin="5dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        >
+        <TextView
+            android:id="@+id/tvTenGioHang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="#10100f"
+            android:text="Tên món hàng"
+            />
+
+        <TextView
+            android:id="@+id/tvGiaGioHang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColor="#f20"
+            android:text="Giá món hàng"
+            android:layout_marginTop="3dp"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+            
+            <Button
+                android:id="@+id/btnMinus"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:backgroundTint="#D1D1D1"
+                android:textColor="@color/black"
+                android:text="-"
+                android:textSize="30dp"
+                android:focusable="false"
+                />
+            
+            <TextView
+                android:id="@+id/tvValues"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Giá trị"
+                android:textSize="35sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:gravity="center"
+                />
+
+            <Button
+                android:id="@+id/btnPlus"
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:backgroundTint="#D1D1D1"
+                android:textColor="@color/black"
+                android:text="+"
+                android:textSize="30dp"
+                android:focusable="false"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

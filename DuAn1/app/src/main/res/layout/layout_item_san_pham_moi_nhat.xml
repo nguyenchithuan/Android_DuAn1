@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="7dp"
+
+    app:cardCornerRadius="7dp">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <ImageView
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/cornew"
+            android:layout_gravity="top|right"
+            />
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="7dp"
+            >
+            <ImageView
+                android:id="@+id/imgAnhSp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@mipmap/ic_launcher"
+                />
+            <TextView
+                android:id="@+id/tvTenSp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Tên sản phẩm"
+                android:textSize="20sp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_margin="5sp"
+                />
+
+            <TextView
+                android:id="@+id/tvGiaSp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Giá sản phẩm"
+                android:textSize="16sp"
+                android:textColor="#ff0000"
+                android:textStyle="bold"
+                android:layout_margin="5sp"
+                android:gravity="center"
+                />
+            
+
+        </LinearLayout>
+        
+    </FrameLayout>
+
+</androidx.cardview.widget.CardView>

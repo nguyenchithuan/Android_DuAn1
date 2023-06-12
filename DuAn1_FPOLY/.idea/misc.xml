@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable-v24/bg_border_orange.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_add_shopping.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_border_bottom.xml" value="0.1095" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_border_gray.xml" value="0.123" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_buttom_search.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_custom_buttom_number.xml" value="0.123" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_custom_toast.xml" value="0.1125" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_gray_stroke_btn.xml" value="0.1175" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_header_nav.xml" value="0.1125" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_header_nave.xml" value="0.1125" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_login_buttom.xml" value="0.118" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_number_circle.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_orange_stroke_btn.xml" value="0.1175" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_search.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_shape_left_panel.xml" value="0.118" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_shape_login_panel.xml" value="0.118" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_shape_right_panel.xml" value="0.118" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_toolbar.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/bg_white_stroke_edtext.xml" value="0.1175" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/ic_account.xml" value="0.1175" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/ic_add_shopping.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/ic_home.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/ic_key.xml" value="0.1175" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/ic_re_key.xml" value="0.1175" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/drawable/ic_search.xml" value="0.115" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_change_pass.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_gio_hang.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_group.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_info.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_product_detail.xml" value="0.14666666666666667" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_product_details.xml" value="0.16209371042634022" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_search_product.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_sign_up_activity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_sign_upctivity.xml" value="0.16209371042634022" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_thanh_toan.xml" value="0.16666666666666666" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_thong_ke.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/activity_thong_tin_khach_hang.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/bg_edtext_white_stroke.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_don_hang.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_laptop.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_phone.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_settings.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tab_laptop.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tab_laptop_asc.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tab_laptop_desc.xml" value="0.1526293287729799" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tab_laptop_new.xml" value="0.1526293287729799" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tag_phone.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tag_phone_asc.xml" value="0.1526293287729799" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tag_phone_desc.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_tag_phone_new.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/fragment_xem_don_hang.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_bottom_sheet_don_hang.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_custom_toast.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_chi_tiet_don_hang.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_chi_tiet_gio_hang.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_don_hang.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_gio_hang.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_san_pham.xml" value="0.22" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_san_pham_moi.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_setting.xml" value="0.16666666666666666" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_item_settings.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/layout/layout_notification_shopping.xml" value="0.3333333333333333" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/menu/menu_bottom_nav.xml" value="0.16417272338606242" />
+        <entry key="..\:/Hoc_Android/Android_DuAn1/DuAn1_FPOLY/app/src/main/res/menu/menu_shop.xml" value="0.16417272338606242" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

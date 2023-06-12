@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12dp"
+    >
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="horizontal"
+         android:gravity="center"
+         android:padding="15dp"
+         >
+        <!--    adjustViewBounds hiển thị toàn bộ hình mà không bị cắt đi     -->
+         <ImageView
+             android:id="@+id/imgSanPham"
+             android:layout_width="150dp"
+             android:layout_height="150dp"
+             android:adjustViewBounds="true"
+             android:layout_margin="3dp"
+             />
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical"
+             >
+             <TextView
+                 android:id="@+id/tvTenSanPham"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="21sp"
+                 android:text="Tên sản phẩm"
+                 android:textStyle="bold"
+                 android:textColor="#fc0a65ba"
+                 android:layout_margin="5dp"
+                 />
+
+             <TextView
+                 android:id="@+id/tvGiaSanPham"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="21sp"
+                 android:text="Giá sản phẩm"
+                 android:textStyle="bold"
+                 android:textColor="#F44336"
+                 android:layout_margin="5dp"
+                 />
+             <TextView
+                 android:id="@+id/tvMoTaSanPham"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="21sp"
+                 android:text="Mô tả sản phẩm"
+                 android:layout_margin="5dp"
+                 />
+
+         </LinearLayout>
+
+     </LinearLayout>
+
+</androidx.cardview.widget.CardView>

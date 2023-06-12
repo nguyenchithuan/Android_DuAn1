@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.package_settings.ChangePassActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white"
+        >
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/id_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/white"
+            app:title=" ">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Đổi mật khẩu"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#F4F4F4"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="12dp"
+            >
+
+            <EditText
+                android:id="@+id/ed_pass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_white_stroke_edtext"
+                android:padding="12dp"
+                android:hint="Mật khẩu hiện tại"
+                android:drawableLeft="@drawable/ic_lock"
+                android:drawablePadding="10dp"
+                android:layout_marginTop="15dp"
+                android:inputType="textPassword"
+                />
+
+            <EditText
+                android:id="@+id/ed_new_pass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_white_stroke_edtext"
+                android:padding="12dp"
+                android:hint="Mật khẩu mới"
+                android:layout_marginTop="15dp"
+                android:drawableLeft="@drawable/ic_key"
+                android:drawablePadding="10dp"
+                android:inputType="textPassword"
+                />
+
+            <EditText
+                android:id="@+id/ed_new_re_pass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_white_stroke_edtext"
+                android:padding="12dp"
+                android:layout_marginTop="15dp"
+                android:hint="Nhập lại mật khẩu mới"
+                android:drawableLeft="@drawable/ic_key"
+                android:drawablePadding="10dp"
+                android:inputType="textPassword"
+                />
+
+            <Button
+                android:id="@+id/btn_update"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_orange_stroke_btn"
+                android:layout_marginTop="20dp"
+                android:textColor="@color/white"
+                android:text="Cập nhật mật khẩu"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                />
+
+            <Button
+                android:id="@+id/btn_cancle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_gray_stroke_btn"
+                android:layout_marginTop="15dp"
+                android:textColor="@color/black"
+                android:text="Hủy"
+                android:textAllCaps="false"
+                android:textSize="18sp"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/id_progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>

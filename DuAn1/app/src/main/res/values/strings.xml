@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DuAn1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_thong_tin">ThongTinActivity</string>
+    <string name="YOUR_API_KEY">AIzaSyCrALl6g79LzvoP27ce7JLptoHWbZfF_UI</string>
+</resources>
